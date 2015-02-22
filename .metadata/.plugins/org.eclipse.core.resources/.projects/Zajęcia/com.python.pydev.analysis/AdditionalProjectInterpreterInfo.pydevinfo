@@ -1,12 +1,23 @@
 -- VERSION_4
 -- START DISKCACHE
 /home/studinf/kpek/python/.metadata/.plugins/org.eclipse.core.resources/.projects/Zajęcia/com.python.pydev.analysis/v2_indexcache
+zad0|1424610921000|/home/studinf/kpek/python/Zajęcia/lab1/zad0.py
+zad1|1424610842000|/home/studinf/kpek/python/Zajęcia/lab1/zad1.py
+zad2|1424613196000|/home/studinf/kpek/python/Zajęcia/lab1/zad2.py
+zad3|1424615408000|/home/studinf/kpek/python/Zajęcia/lab1/zad3.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+2=zad2
+1=zad3
 -- END DICTIONARY
 -- START TREE 1
-0
+5
+a|2|a!11@a!19@
+b|2|b!19@b!11@
+c|1|c!19@
+wyn|0|
+x|1|x!19@
 -- END TREE
 -- START TREE 2
 0

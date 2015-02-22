@@ -1,0 +1,17 @@
+a = 1
+b = 0
+c = 1
+
+print (a>b and [a] or [b])[0]
+
+print a if a>b else b
+
+if a == 0;
+    if c == 0;
+        wynik = 'duzo'
+    else:
+        wynik = 'nie ma'
+else:
+    wynik = -c/float(a)
+    
+print wynik
