@@ -1,0 +1,3 @@
+a = int(raw_input("Podaj liczbe: "))
+b = int(raw_input("Podaj liczbe: "))
+c = int(raw_input("Podaj liczbe: "))

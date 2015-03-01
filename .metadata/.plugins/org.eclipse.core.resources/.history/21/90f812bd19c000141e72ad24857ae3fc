@@ -1,0 +1,7 @@
+a = int(raw_input("Podaj liczbe: "))
+b = int(raw_input("Podaj liczbe: "))
+c = int(raw_input("Podaj liczbe: "))
+
+# DELTA
+delta = (b*b)*4(a*c)
+print delta
