@@ -1,0 +1,9 @@
+a = int(raw_input("Podaj liczbe: "))
+b = int(raw_input("Podaj liczbe: "))
+
+def euklides(a, b):
+    while b:
+        a, b = b, a%b
+    return a
+
+print "Największy wspólny dzielnik to: ", a

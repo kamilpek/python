@@ -1,3 +1,3 @@
 Repozytorium ze skryptami w Pythonie.
 
-Aktualizacja: 01.03.2015
+Aktualizacja: 15.03.2015

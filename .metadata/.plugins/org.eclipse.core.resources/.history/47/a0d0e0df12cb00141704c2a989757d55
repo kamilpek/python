@@ -1,0 +1,3 @@
+a = int(raw_input("Podaj dlugosc wektora a: "))
+b = int(raw_input("Podaj dlugosc wektora b: "))
+c = int(raw_input("Podaj kat zawarty miedzy wektorami: "))
