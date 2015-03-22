@@ -7,16 +7,18 @@ lab3.zad2|1426427458000|/home/studinf/kpek/python/Zajęcia/lab3/zad2.py
 zad0|1424610921000|/home/studinf/kpek/python/Zajęcia/lab1/zad0.py
 lab3.zad2b|1426427168000|/home/studinf/kpek/python/Zajęcia/lab3/zad2b.py
 hello|1424610432000|/home/studinf/kpek/python/Zajęcia/lab1/hello.py
+lab4.zad1|1427031378000|/home/studinf/kpek/python/Zajęcia/lab4/zad1.py
 zad1|1424610842000|/home/studinf/kpek/python/Zajęcia/lab1/zad1.py
 zad2|1424613196000|/home/studinf/kpek/python/Zajęcia/lab1/zad2.py
 zad3|1424615804000|/home/studinf/kpek/python/Zajęcia/lab1/zad3.py
 -- END DISKCACHE
 -- START DICTIONARY
-6
+7
 5=lab3.zad4
 1=lab3.zad3
 4=lab3.zad2
-6=lab3.zad2b
+6=lab4.zad1
+7=lab3.zad2b
 3=zad2
 2=zad3
 -- END DICTIONARY
@@ -54,13 +56,13 @@ jed|0|
 kos|1|kosinus!35@
 lis|1|lista!43@
 lud|0|
-oso|0|
+oso|1|osoby!51@
 rad|1|rad!35@
-ska|2|skalar!50@skalar2!50@
+ska|2|skalar!58@skalar2!58@
 slo|2|slownie!10@slownie2!10@
 sor|0|
-w1|1|w1!51@
-w2|1|w2!51@
+w1|1|w1!59@
+w2|1|w2!59@
 x|1|x!27@
 zak|2|zakupy2!42@zakupy!42@
 -- END TREE
