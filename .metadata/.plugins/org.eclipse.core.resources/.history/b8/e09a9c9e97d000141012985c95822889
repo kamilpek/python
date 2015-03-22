@@ -1,0 +1,11 @@
+osoby = [{'nazwisko':'Kowalski', '60', ('schabowy', 'krupnik')}, 
+         {'nazwisko':'Nowak', '80', ('jajecznica', 'pomidorowa')}, 
+         {'nazwisko':'Iksinski', '75', ('chleb', 'barszcz')], 
+         {'nazwisko':'Nowakowski', '85', ('ryz', 'bigos')}, 
+         {'nazwisko':'Kowal', '75', ('bulka', 'kebab')}, 
+         {'nazwisko':'Smith', '95', ('makaron', 'KFC')}, 
+         {'nazwisko':'Wisniewski', '72', ('zeberka', 'pizza')}, 
+         {'nazwisko':'Dabrowski', '83', ('pizza', 'tosty')}, 
+         {'nazwisko':'Lewandowski', '68', ('hot-dog', 'bigos')}, 
+         {'nazwisko':'Wojcik', '76', ('zupa', 'kaczka')}]
+

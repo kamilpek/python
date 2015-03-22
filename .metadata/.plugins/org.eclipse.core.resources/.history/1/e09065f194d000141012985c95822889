@@ -1,0 +1,11 @@
+a01 = ['Kowalski', '90', ('schabowy', 'krupnik')]
+a02 = ['Nowak', '80', ('jajecznica', 'pomidorowa')]
+a03 = ['Iksinski', '75', 'chleb' ]
+a04 = ['Nowakowski', '85', 'ryż']
+a05 = ['Kowal', '75', 'bułka']
+a06 = ['Smith', '95', 'makaron']
+a07 = ['Wisniewski', '72', 'zeberka']
+a08 = ['Dabrowski', '83', 'pizza']
+a09 = ['Lewandowski', '68', 'hot-dog']
+a10 = ['Wojcik', '76', 'zupa']
+
