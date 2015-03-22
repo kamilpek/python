@@ -26,7 +26,3 @@ print sorted(osoby, key=lambda o:o['ulubione_dania'][0], reverse=True)
 print sorted(osoby,
              cmp=lambda x,y: 1 if x<y else -1,
              key=lambda o:o['ulubione_dania'][0], reverse=True)
-
-print [ o['nazwisko'] for o in sorted(osoby,
-                                      cmp=lambda x,y: cmp(x[::-1],y[::-1]),
-                                      key=lambda o:o['nazwisko']) ]
