@@ -6,9 +6,9 @@ class Sum:
     def __dodaj__(self, other):
         return self.dodaj(self.data, other)
                           
-class ListSum(Sum):
+class ListSum(Sum):             
     def dodaj(self, a, b):
-        return a + b
+        return a + b            # Konkatenacja / Dodawanie
 
 class SlowSum(Sum):
     def dodaj(self, x, y):
@@ -17,6 +17,9 @@ class SlowSum(Sum):
         for k in y.keys(  ): nowy[k] = y[k]
         return nowy
     
-# x = int(raw_input("Podaj x "))
-# y = int(raw_input("Podaj y ")) 
-ListSum().dodaj(1, 2, 3)
+print ListSum().dodaj('maj', 'ster')
+print ListSum().dodaj(128, 256)
+
+a={1:1, 2:2, 3:3, 4:4, 5:5}
+b={1:2, 2:3, 3:4, 4:5, 5:6}
+print SlowSum().dodaj(a,b)

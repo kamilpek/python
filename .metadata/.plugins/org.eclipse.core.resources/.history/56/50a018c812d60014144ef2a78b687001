@@ -1,0 +1,25 @@
+class Sum:
+    def dodaj(self, x, y):
+        print 'Brak implementacji'
+    def __init__(self, start=[  ]):
+        self.data = start
+    def __dodaj__(self, other):
+        return self.dodaj(self.data, other)
+                          
+class ListSum(Sum):             
+    def dodaj(self, a, b):
+        return a + b            # Konkatenacja / Dodawanie
+
+class SlowSum(Sum):
+    def dodaj(self, x, y):
+        nowy = {  }
+        for k in x.keys(  ): nowy[k] = x[k]
+        for k in y.keys(  ): nowy[k] = y[k]
+        return nowy
+    
+print ListSum().dodaj('maj', 'ster')
+print ListSum().dodaj(1, 2)
+
+a={1:'a', 2:'b', 3:'c', 4:'d', 5:'e'}
+b={1:'f', 2:'g', 3:'h', 4:'i', 5:'j'}
+print SlowSum().dodaj(a,b)

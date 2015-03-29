@@ -15,3 +15,8 @@ class SsakNaczelny(Ssak):
     def glos(self):     print 'Witaj!'
 
 class Haker(SsakNaczelny):  pass
+
+spot = Kot()
+spot.reply()
+#data = Haker()
+#data.reply()
