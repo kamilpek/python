@@ -1016,6 +1016,8 @@ curses.has_key|/usr/lib/python2.7/curses/has_key.py
 curses.panel|/usr/lib/python2.7/curses/panel.py
 curses.textpad|/usr/lib/python2.7/curses/textpad.py
 curses.wrapper|/usr/lib/python2.7/curses/wrapper.py
+cv|/usr/lib/python2.7/dist-packages/cv.py
+cv2|/usr/lib/python2.7/dist-packages/cv2.so
 cvxopt.__init__|/usr/lib/python2.7/dist-packages/cvxopt/__init__.py
 cvxopt.amd|/usr/lib/python2.7/dist-packages/cvxopt/amd.so
 cvxopt.base|/usr/lib/python2.7/dist-packages/cvxopt/base.so
@@ -1520,14 +1522,6 @@ importlib.__init__|/usr/lib/python2.7/importlib/__init__.py
 imputil|/usr/lib/python2.7/imputil.py
 inspect|/usr/lib/python2.7/inspect.py
 io|/usr/lib/python2.7/io.py
-iotop.__init__|/usr/lib/python2.7/dist-packages/iotop/__init__.py
-iotop.data|/usr/lib/python2.7/dist-packages/iotop/data.py
-iotop.genetlink|/usr/lib/python2.7/dist-packages/iotop/genetlink.py
-iotop.ioprio|/usr/lib/python2.7/dist-packages/iotop/ioprio.py
-iotop.netlink|/usr/lib/python2.7/dist-packages/iotop/netlink.py
-iotop.ui|/usr/lib/python2.7/dist-packages/iotop/ui.py
-iotop.version|/usr/lib/python2.7/dist-packages/iotop/version.py
-iotop.vmstat|/usr/lib/python2.7/dist-packages/iotop/vmstat.py
 itertools
 jinja2.__init__|/usr/lib/python2.7/dist-packages/jinja2/__init__.py
 jinja2._compat|/usr/lib/python2.7/dist-packages/jinja2/_compat.py
