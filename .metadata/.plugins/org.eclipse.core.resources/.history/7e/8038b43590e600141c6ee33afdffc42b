@@ -1,0 +1,7 @@
+def f(x):
+    a=x
+    return a * b
+
+def g(x):
+    b=f(x)
+    return a * b

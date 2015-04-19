@@ -1,0 +1,10 @@
+liczby=['raz','dwa','trzy','cztery']
+
+liczby[:1]
+print liczby     
+    
+liczby[1:]     
+    
+liczby[1:-1]     
+    
+liczby[-1:1] 
