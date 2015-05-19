@@ -1,4 +1,0 @@
-a = int(raw_input("Podaj dlugosc wektora a: "))
-
-def slownie(a):
-    

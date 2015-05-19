@@ -1,3 +1,5 @@
+##Python
+
 Repozytorium ze skryptami w Pythonie.
 
-Aktualizacja: 05.05.2015
+Aktualizacja: 19.05.2015

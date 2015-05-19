@@ -1,7 +1,0 @@
-a = float(raw_input("Podaj a: "))
-b = float(raw_input("Podaj b: "))
-c = float(raw_input("Podaj c: "))
-
-# DELTA
-delta = (b*b)*4(a*c)
-print delta

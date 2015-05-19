@@ -1,3 +1,0 @@
-ludzie = [('Kowalski', '90', ('schabowy', 'krupnik')), ('Nowak', '80', ('jajecznica', 'pomidorowa')), ('Iksinski', '75', ('chleb', 'barszcz')), ('Nowakowski', '85', ('ryz', 'bigos')), ('Kowal', '75', ('bulka', 'kebab')),
-          ('Smith', '95', ('makaron', 'KFC')), ('Wisniewski', '72', ('zeberka', 'pizza')), ('Dabrowski', '83', ('pizza', 'tosty')), ('Lewandowski', '68', ('hot-dog', 'bigos')), ('Wojcik', '76', ('zupa', 'kaczka'))]
-

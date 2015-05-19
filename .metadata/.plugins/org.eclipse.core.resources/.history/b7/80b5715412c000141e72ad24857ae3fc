@@ -1,5 +1,0 @@
-x = raw_input("Podaj liczbe: ")
-print x
-
-sqrt(x)
-print x

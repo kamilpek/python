@@ -1,2 +1,0 @@
-class Punkt:
-    __init__(self)

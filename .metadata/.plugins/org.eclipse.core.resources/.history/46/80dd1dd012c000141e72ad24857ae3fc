@@ -1,7 +1,0 @@
-import math
-
-x = raw_input("Podaj liczbe: ")
-print x
-
-n = sqrt(x)
-print x
